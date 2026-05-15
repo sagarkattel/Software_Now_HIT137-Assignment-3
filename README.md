@@ -1,13 +1,16 @@
-# Spot the Difference – HIT137 Group Assignment 3
+# Group HIT137 Group Assignment 3
 
-Welcome to "Spot the Difference" – a Python application built with Tkinter and OpenCV. In this game, an image is loaded, and the program automatically generates 5 hidden alterations on a duplicate image. Your goal is to click the right-hand image to find the hidden differences without exceeding the maximum mistake limit!
 
-## Features
-- **Dynamic Alteration:** Programs inject random modifications to the image including colour shifts, brightness adjustments, and blurring.
-- **Graphical User Interface:** Minimalistic, dark-themed UI built elegantly using Python's native `tkinter` library.
-- **Score & Mistake Tracking:** Tracks running totals visually.
+Group Members
 
----
+Sagar Kattel - S396108
+
+Kishor Aryal - S394008
+
+Sujan Kunwar - S394032
+
+Sudip Sapkota - S396353
+
 
 ## 🛠️ Prerequisites & Setup
 
